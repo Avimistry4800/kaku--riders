@@ -1,0 +1,5 @@
+.singleCard{
+    box-shadow: 10px 16px 42px -1px rgba(62,170,179,0.39);
+    -webkit-box-shadow: 10px 16px 42px -1px rgba(62,170,179,0.39);
+    -moz-box-shadow: 10px 16px 42px -1px rgba(62,170,179,0.39);
+}

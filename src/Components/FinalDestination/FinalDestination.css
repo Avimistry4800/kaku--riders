@@ -1,0 +1,29 @@
+.ride{
+    width:400px;
+    border: 1px solid rgb(207, 193, 193);
+    border-radius: 10px;
+    background-color: rgb(14, 156, 192);
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.divStyle{
+    width:400px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border: 1px solid rgb(73, 73, 49);
+    border-radius: 10px;
+    background-color: rgb(9, 212, 12);
+    padding-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.ride-details{
+    width: 440px;
+    height: 322px;
+    margin-left :150px;
+    margin-top:150px;
+    border: 1px solid rgb(75, 71, 71);
+    background-color: rgb(2, 239, 251);
+    border-radius: 10px;
+
+}
